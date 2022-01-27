@@ -1,0 +1,15 @@
+# Slice1!4!0xFF69B4!-log10(x)+6,,,,,x,x,
+# Slice2!4!0x6959CD!-ln(x),,,,,,x,
+# Slice3!4!0xCDC1C5!-ln(x),,,,x,x,x,
+# Slice4!5!0xFF6347!-log10(x)+6,,,,x,x,,x
+Row,Source,CASRN,Name,metric1,metric2,metric3,metric4
+1,source01,11-111-1111,chem01,25,91,NA,NA
+2,source02,22-222-2222,chem02,NA,46,51,48
+3,source03,33-333-3333,chem03,44,NA,9,34
+4,source04,44-444-4444,chem04,26,64,27,9
+5,source05,55-555-5555,chem05,33,36,69,88
+6,source06,66-666-6666,chem06,94,46,NA,54
+7,source07,77-777-7777,chem07,37,31,NA,7
+8,source08,88-888-8888,chem08,58,29,9,46
+9,source09,99-999-9999,chem09,95,24,78,46
+10,source10,11-222-3333,chem10,68,54,43,25

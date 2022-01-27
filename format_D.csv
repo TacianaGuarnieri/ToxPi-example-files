@@ -1,0 +1,15 @@
+# Slice1!5!0x8B1C62!sqrt(x),x,,x,
+# Slice2!1!0xFFDAB9!sqrt(x),x,,x,x
+# Slice3!1!0xDDA0DD!linear(x),x,x,x,x
+# Slice4!3!0x3CB371!-log10(x)+6,,x,x,x
+"","metric1","metric2","metric3","metric4"
+"chem01",95,78,17,30
+"chem02",NA,35,17,11
+"chem03",36,NA,7,78
+"chem04",77,43,38,40
+"chem05",75,NA,NA,51
+"chem06",16,95,NA,66
+"chem07",89,15,43,23
+"chem08",2,19,98,NA
+"chem09",73,35,5,61
+"chem10",NA,NA,44,49

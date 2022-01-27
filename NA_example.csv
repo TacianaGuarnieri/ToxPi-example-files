@@ -1,0 +1,15 @@
+,,,,1,1,1
+,,,,Slice1,Slice2,Slice2
+,,,,pathway,pathway,pathway
+,,,,NA,NA,NA
+Row,Source,CASRN,Name,metric1,metric2,metric3
+1,source01,11-111-1111,chem01,74,74,74
+2,source02,22-222-2222,chem02,28,28,28
+3,source03,33-333-3333,chem03,61,61,61
+4,source04,44-444-4444,chem04,NA,NA,NA
+5,source05,55-555-5555,chem05,29,29,29
+6,source06,66-666-6666,chem06,12,12,12
+7,source07,77-777-7777,chem07,29,29,29
+8,source08,88-888-8888,chem08,58,58,58
+9,source09,99-999-9999,chem09,51,51,51
+10,source10,11-222-3333,chem10,60,60,60

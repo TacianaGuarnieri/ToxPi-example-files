@@ -1,0 +1,17 @@
+# Slice1!2!0xFF0000!sqrt(x),,,,x,x,,
+# Slice2!1!0xD2B48C!-log10(x)+6,,,,,,,x
+# Slice3!3!0x32CD32!sqrt(x),,,,x,x,x,x
+# Slice4!2!0x0000EE!-log10(x)+6,,,,,x,,
+,,,,assay,pathway,chemprop,exposure
+,,,,NA,NA,NA,NA
+Row,Source,CASRN,Name,metric1,metric2,metric3,metric4
+1,source01,11-111-1111,chem01,74,77,97,25
+2,source02,22-222-2222,chem02,28,20,68,72
+3,source03,33-333-3333,chem03,61,3,24,73
+4,source04,44-444-4444,chem04,NA,40,22,20
+5,source05,55-555-5555,chem05,29,53,4,44
+6,source06,66-666-6666,chem06,12,43,85,83
+7,source07,77-777-7777,chem07,29,NA,38,NA
+8,source08,88-888-8888,chem08,58,66,NA,70
+9,source09,99-999-9999,chem09,51,84,NA,58
+10,source10,11-222-3333,chem10,60,40,38,32
